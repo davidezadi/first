@@ -1,6 +1,5 @@
 {
   "server_host": "0.0.0.0",
   "server_port": 8443,
-  "tunnel_key": "4790aae43b5690fccd3bfc09c545d5b18e97e73d1e8ce892b1b13edefc383bbe",
-  "debug_timing": false
+  "tunnel_key": "4790aae43b5690fccd3bfc09c545d5b18e97e73d1e8ce892b1b13edefc383bbe"
 }
